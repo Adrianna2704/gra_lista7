@@ -10,7 +10,7 @@ pygame - Library for creating Python games.
 
 
 How to run this app?
-1. Clone the project: 'git clone https://github.com/Adrianna2704/gra_lista7.git DropFlower'
-'cd DropFlower'
-2. pip 'install -r requirements.txt'
-3. Run the game: 'python DropFlower.py'
+1. Clone the project:  `git clone https://github.com/Adrianna2704/gra_lista7.git DropFlower `
+`cd DropFlower`
+2. pip `install -r requirements.txt`
+3. Run the game: `python DropFlower.py`
